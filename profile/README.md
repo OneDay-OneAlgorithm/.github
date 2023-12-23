@@ -11,13 +11,10 @@
 
 ## ⭐️ 챌린지 완주 명예의 전당 ⭐️
 
-> 약 2달이라는 기간 동안 챌린지를 완주한 멤버들 입니다.
+> 약 2달이라는 기간 동안 챌린지를 완주한 멤버 입니다 🥳
 
 <table>
    <tr>
-        <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/2732/2732700.png" width="100px;" alt=""/><br /><sub><b>누굴까요</b></sub></a></td>
-        <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/2732/2732700.png" width="100px;" alt=""/><br /><sub><b>누굴까요</b></sub></a></td>
-        <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/2732/2732700.png" width="100px;" alt=""/><br /><sub><b>누굴까요</b></sub></a></td>
-        <td align="center"><a href=""><img src="https://cdn-icons-png.flaticon.com/512/2732/2732700.png" width="100px;" alt=""/><br /><sub><b>누굴까요</b></sub></a></td>
+        <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/19565940?v=4" width="100px;" alt="https://github.com/chongin12"/><br /><sub><b>정종인</b></sub></a></td>
    </tr>
 </table>
