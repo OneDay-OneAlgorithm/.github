@@ -14,7 +14,13 @@
 > 약 2달이라는 기간 동안 챌린지를 완주한 멤버 입니다 🥳
 
 <table>
-   <tr>
-        <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/19565940?v=4" width="100px;" alt="https://github.com/chongin12"/><br /><sub><b>정종인</b></sub></a></td>
-   </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/chongin12" target="_blank">
+                <img src="https://avatars.githubusercontent.com/u/19565940?v=4" width="130px" alt="https://github.com/chongin12"/>
+                <br />
+                <sub><b>정종인</b></sub>
+            </a>
+        </td>
+    </tr>
 </table>
