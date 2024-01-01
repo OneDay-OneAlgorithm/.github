@@ -19,10 +19,10 @@
 | <img src="https://avatars.githubusercontent.com/u/48712043?v=4" width="120" alt="챌린저 5 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="120" alt="챌린저 6 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/104755384?v=4" width="120" alt="챌린저 7 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/19565940?v=4" width="120" alt="챌린저 8 프로필 사진"> |
 | [@GGHDMS](https://github.com/GGHDMS) | [@taeheeL](https://github.com/taeheeL) | [@candosh](https://github.com/candosh) | [@chongin12](https://github.com/chongin12) |
 
-|      LeeJoongGon      |      챌린저 10      |      챌린저 11      |      챌린저 12      |
+|      LeeJoongGon      |      LeeHyunsu     |      챌린저 11      |      챌린저 12      |
 |:------------------:|:------------------:|:------------------:|:------------------:|
-| <img src="https://avatars.githubusercontent.com/u/76615094?v=4" width="120" alt="챌린저 9 프로필 사진"> | <img src="https://cdn.pixabay.com/photo/2017/02/13/01/26/the-question-mark-2061539_1280.png" width="120" alt="챌린저 10 프로필 사진"> | <img src="https://cdn.pixabay.com/photo/2017/02/13/01/26/the-question-mark-2061539_1280.png" width="120" alt="챌린저 11 프로필 사진"> | <img src="https://cdn.pixabay.com/photo/2017/02/13/01/26/the-question-mark-2061539_1280.png" width="120" alt="챌린저 12 프로필 사진"> |
-| [@2wndrhs](https://github.com/2wndrhs) | [Profile](https://github.com/챌린저10) | [Profile](https://github.com/챌린저11) | [Profile](https://github.com/챌린저12) |
+| <img src="https://avatars.githubusercontent.com/u/76615094?v=4" width="120" alt="챌린저 9 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/52325921?v=4" width="120" alt="챌린저 10 프로필 사진"> | <img src="https://cdn.pixabay.com/photo/2017/02/13/01/26/the-question-mark-2061539_1280.png" width="120" alt="챌린저 11 프로필 사진"> | <img src="https://cdn.pixabay.com/photo/2017/02/13/01/26/the-question-mark-2061539_1280.png" width="120" alt="챌린저 12 프로필 사진"> |
+| [@2wndrhs](https://github.com/2wndrhs) | [@julymeltdown](https://github.com/julymeltdown) | [Profile](https://github.com/챌린저11) | [Profile](https://github.com/챌린저12) |
 
 
 
