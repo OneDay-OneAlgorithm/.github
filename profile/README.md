@@ -22,7 +22,7 @@
 |      LeeJoongGon      |      LeeHyunsu     |      PyeounYuna      |      SoominLee      |
 |:------------------:|:------------------:|:------------------:|:------------------:|
 | <img src="https://avatars.githubusercontent.com/u/76615094?v=4" width="120" alt="챌린저 9 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/52325921?v=4" width="120" alt="챌린저 10 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/78300392?v=4" width="120" alt="챌린저 11 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/78731710?v=4" width="120" alt="챌린저 12 프로필 사진"> |
-| [@2wndrhs](https://github.com/OneDay-OneAlgorithm/LeeJoongGon) | [@julymeltdown](https://github.com/OneDay-OneAlgorithm/LeeHyunsu) | [@PyeounYuna](https://github.com/OneDay-OneAlgorithm/PyeounYuna) | [Profile](https://github.com/챌린저12) |
+| [@2wndrhs](https://github.com/OneDay-OneAlgorithm/LeeJoongGon) | [@julymeltdown](https://github.com/OneDay-OneAlgorithm/LeeHyunsu) | [@PyeounYuna](https://github.com/OneDay-OneAlgorithm/PyeounYuna) | [@intersoom](https://github.com/챌린저12) |
 
 
 
