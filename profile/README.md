@@ -1,36 +1,15 @@
-# 제2회- 1일 1알고리즘 챌린지 진행 중 🏃🏻‍♀️🏃🏻💨
+# 1일 1알고리즘 챌린지 🏃🏻‍♀️🏃🏻💨
 
 > 1일 1알고리즘 (1일 1커밋을) 하는 챌린지 입니다.
 
-## 🔥 챌린지 기간 🔥
-
-| <b> 기간 </b>                         |
-| :------------------------------------ |
-| 1월 1일 ~ 2월 29일  |
-
-## 👩🏻‍💻 제2회 챌린저들 과연 완주자는 누구!? 🧑🏻‍💻
-|      ShinJongWon      |      JungminLee       |     YooJimin       |     KimDongHyun      |
-|:------------------:|:------------------:|:------------------:|:------------------:|
-| <img src="https://avatars.githubusercontent.com/u/71203867?v=4" width="120" alt="챌린저 1 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/85864699?v=4" width="120" alt="챌린저 2 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/66112716?v=4" width="120" alt="챌린저 3 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/113027703?v=4" width="120" alt="챌린저 4 프로필 사진"> |
-| [@JJongW](https://github.com/OneDay-OneAlgorithm/ShinJongWon) | [@JjungminLee](https://github.com/OneDay-OneAlgorithm/JjungminCpp) | [@yoo-jimin127](https://github.com/OneDay-OneAlgorithm/YooJimin) | [@bricksky](https://github.com/OneDay-OneAlgorithm/KimDongHyun) |
-
-|      HeoSeokMun      |      LeeTaeHee       |      ChoiSeohyeon       |      JeongChongin       |
-|:------------------:|:------------------:|:------------------:|:------------------:|
-| <img src="https://avatars.githubusercontent.com/u/48712043?v=4" width="120" alt="챌린저 5 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="120" alt="챌린저 6 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/104755384?v=4" width="120" alt="챌린저 7 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/19565940?v=4" width="120" alt="챌린저 8 프로필 사진"> |
-| [@GGHDMS](https://github.com/OneDay-OneAlgorithm/HeoSeokMun) | [@taeheeL](https://github.com/OneDay-OneAlgorithm/LeeTaeHee) | [@candosh](https://github.com/OneDay-OneAlgorithm/ChoiSeohyeon) | [@chongin12](https://github.com/OneDay-OneAlgorithm/JeongChongin) |
-
-|      LeeJoongGon      |      LeeHyunsu     |      PyeounYuna      |      SoominLee      |
-|:------------------:|:------------------:|:------------------:|:------------------:|
-| <img src="https://avatars.githubusercontent.com/u/76615094?v=4" width="120" alt="챌린저 9 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/52325921?v=4" width="120" alt="챌린저 10 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/78300392?v=4" width="120" alt="챌린저 11 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/78731710?v=4" width="120" alt="챌린저 12 프로필 사진"> |
-| [@2wndrhs](https://github.com/OneDay-OneAlgorithm/LeeJoongGon) | [@julymeltdown](https://github.com/OneDay-OneAlgorithm/LeeHyunsu) | [@PyeounYuna](https://github.com/OneDay-OneAlgorithm/PyeounYuna) | [@intersoom](https://github.com/OneDay-OneAlgorithm/LeeSoomin) |
-
-
+## 휴식 중 ☕️
+현재 2회 1일 1알고리즘까지 진행 후 재정비 중 입니당!
 
 ## ⭐️ 챌린지 완주 명예의 전당 ⭐️
+> 챌린지 명예의 전당은 챌린지 기간 동안 빠짐없이 문제를 푼 멤버가 등재됩니다.
 
-> 제1회 1일 1알고리즘 챌린지: 9월 16일 ~ 12월 2일 진행
-
-|      정종인       |                                                                                      
-| :------------------------------------------------------------------------------: 
-|    <img src="https://avatars.githubusercontent.com/u/19565940?v=4" width="120" alt="깃허브계정-프로필사진"> | 
-|   [@chongin12](https://github.com/chongin12)   |
+| 정종인👑 | 유지민👑 |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <img src="https://avatars.githubusercontent.com/u/19565940?v=4" width="150" alt="깃허브계정-프로필사진"> | <img src="https://avatars.githubusercontent.com/u/66112716?v=4" width="150" alt="깃허브계정-프로필사진"> |
+| [@chongin12](https://github.com/OneDay-OneAlgorithm/JeongChongin) | [@yoo-jimin127](https://github.com/OneDay-OneAlgorithm/YooJimin) |
+| 제1회 1일 1알고리즘 챌린지 <br/> [14명 참여]<br/> 2023년 9월 16일 ~ 12월 2일 진행 | 제2회 1일 1알고리즘 챌린지<br/> [13명 참여]<br/> 2024년 1월 1일 ~ 2월 29일 진행 |
