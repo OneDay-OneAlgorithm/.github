@@ -22,7 +22,7 @@
 |                          |                          |                          |                          |
 |:------------------:|:------------------:|:------------------:|:------------------:|
 | <img src="https://avatars.githubusercontent.com/u/33739448?v=4" width="120" alt="챌린저 9 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/81168401?v=4" width="120" alt="챌린저 10 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/48352078?v=4" width="120" alt="챌린저 11 프로필 사진"> | <img src="https://avatars.githubusercontent.com/u/102797359?v=4" width="120" alt="챌린저 12 프로필 사진"> |
-| [@Gon](https://github.com/OneDay-OneAlgorithm/HwanGonJang) | [@Felix](https://github.com/OneDay-OneAlgorithm/Kimyoungbin) | [@Comet](https://github.com/OneDay-OneAlgorithm/JungHaeSung) | [@Free](https://github.com/OneDay-OneAlgorithm) |
+| [@Gon](https://github.com/OneDay-OneAlgorithm/HwanGonJang) | [@Felix](https://github.com/OneDay-OneAlgorithm/Kimyoungbin) | [@Comet](https://github.com/OneDay-OneAlgorithm/JungHaeSung) | [@Free](https://github.com/OneDay-OneAlgorithm/ChoiJiWoo) |
 
 
 ## ⭐️ 챌린지 완주 명예의 전당 ⭐️
